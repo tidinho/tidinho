@@ -1,4 +1,4 @@
-## Hi, I am tidinho (FullStack-Developer)  👋
+## Hi, I am tidinho (FullStack-Java-Developer)  👋
 
 <div align="center">
   <a href="https://github.com/tidinho">
